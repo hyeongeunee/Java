@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="test.main.MainClass"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="test.main.MainClass01"/>
+    <fullyQualifiedTypeName name="javax.smartcardio.CardException"/>
+    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+    <fullyQualifiedTypeName name="test.mypac.Car"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="test.mypac.MyUitil"/>
+    <fullyQualifiedTypeName name="test.mypac.MyUtil"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.LambdaConversionException"/>
+    <fullyQualifiedTypeName name="java.awt.image.SinglePixelPackedSampleModel"/>
+    <fullyQualifiedTypeName name="javax.print.DocFlavor.INPUT_STREAM"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

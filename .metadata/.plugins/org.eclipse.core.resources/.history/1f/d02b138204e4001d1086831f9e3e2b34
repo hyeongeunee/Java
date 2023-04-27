@@ -1,0 +1,9 @@
+package test.mypac;
+
+public class MyUitil {
+	
+	//메소드
+	public void send() {
+		System.out.println("전송합니다.");
+	}
+}

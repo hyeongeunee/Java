@@ -1,0 +1,13 @@
+package test.main;
+
+import test.mypac.MyUtil;
+
+public class MainClass06 {
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+		//MyUtil 클래스의 send() 메소드 호출하기
+		MyUtil.send();
+		// MyUtil
+		String v = MyUtil.version;
+	}
+}
