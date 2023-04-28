@@ -1,8 +1,5 @@
 package test.main;
 
-import java.io.File;
-import java.util.Scanner;
-
 import test.mypac.Airplane;
 import test.mypac.Test;
 
