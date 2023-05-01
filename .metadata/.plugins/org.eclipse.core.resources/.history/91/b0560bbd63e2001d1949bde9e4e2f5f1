@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author acorn
- *
- */
-module Hello {
-}
