@@ -1,6 +1,7 @@
 package test.main;
 
 public class MainClass02 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//기본 데이터 type double
 		double num1 = 10.1;

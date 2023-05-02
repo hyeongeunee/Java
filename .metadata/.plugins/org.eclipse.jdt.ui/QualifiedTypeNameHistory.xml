@@ -33,7 +33,20 @@
     <fullyQualifiedTypeName name="test.mypac.Bike"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="org.w3c.dom.ls.LSOutput"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="test.mypac.Phone"/>
+    <fullyQualifiedTypeName name="test.mypac.HandPhone"/>
+    <fullyQualifiedTypeName name="test.mypac.AndroidPhone"/>
+    <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+    <fullyQualifiedTypeName name="test.auto.Car"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.ls.LSOutput"/>
+    <fullyQualifiedTypeName name="test.auto.Engine"/>
+    <fullyQualifiedTypeName name="test.auto.Bus"/>
+    <fullyQualifiedTypeName name="test.util.BaseUtil"/>
+    <fullyQualifiedTypeName name="test.util.MyUtil"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="test.mypac.Weapon"/>
+    <fullyQualifiedTypeName name="test.mypac.MyWeapon"/>
 </qualifiedTypeNameHistroy>

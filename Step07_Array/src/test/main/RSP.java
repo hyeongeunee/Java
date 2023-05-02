@@ -1,11 +1,12 @@
 package test.main;
 
-import java.util.HashMap;
+//import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Random;
 
 public class RSP {
-    public static void main(String[] args) {
+    @SuppressWarnings("resource")
+	public static void main(String[] args) {
     	System.out.println("(가위:0), (바위:1), (보:2) 입력하세요 : ");
     	Scanner in = new Scanner(System.in);
     	int me = in.nextInt();
@@ -15,10 +16,10 @@ public class RSP {
         Random ran=new Random();
         int com = ran.nextInt(3);
         
-        HashMap<Integer,String> map = new HashMap<>();
-        map.put(0,"가위");
-        map.put(1,"바위");
-        map.put(2,"보");
+//        HashMap<Integer,String> map = new HashMap<>();
+//        map.put(0,"가위");
+//        map.put(1,"바위");
+//        map.put(2,"보");
         
         System.out.println("나 : " + list[me] + " vs  Com : " + list[com]);
 

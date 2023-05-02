@@ -3,6 +3,7 @@ package test.main;
 import test.mypac.Member;
 
 public class MainClass02 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//Member 객체를 생성해서
 		Member mem1 = new Member();

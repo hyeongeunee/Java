@@ -3,6 +3,7 @@ package test.main;
 import java.util.Random;
 
 public class QuizMain3 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/*
 		 * 3. 우연히 3개가 모두 같게 나왔을 때는 "당첨됬습니다!"를 출력하고
@@ -40,7 +41,7 @@ public class QuizMain3 {
          *		System.out.println("당첨됬습니다!");
       	 *	} else {
          *		System.out.println("꽝");
-         *	}
+         *	} 
 		 */
 	}
 }

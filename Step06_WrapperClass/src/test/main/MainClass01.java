@@ -18,6 +18,7 @@ package test.main;
  *  - boxing 과 unboxing 은 자동으로 되기 때문에 프로그래머가 신경을 쓸필요는 없다.
  */
 public class MainClass01 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//기본 데이터 type num1
 		int num1 = 10;

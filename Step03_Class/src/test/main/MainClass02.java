@@ -3,7 +3,7 @@ package test.main;
 import test.mypac.Car;
 
 public class MainClass02 {
-	@SuppressWarnings("unused")
+	@SuppressWarnings({ "unused", "null" })
 	public static void main(String[] args) {
 		//Car 객체를 생성해서 참조값을 Car type 지역변수 car1에 담기
 		Car car1 = new Car();

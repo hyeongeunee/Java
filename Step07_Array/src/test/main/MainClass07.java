@@ -3,6 +3,7 @@ package test.main;
 import java.util.Random;
 
 public class MainClass07 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Random ran = new Random();
 		//0 ~ 9 사이의 랜덤한 정수

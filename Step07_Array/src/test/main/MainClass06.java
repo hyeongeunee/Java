@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 public class MainClass06 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		//1. 문자열을 저장할 수 있는 방 5개짜리 배열객체를 생성해서 참조값을 msgs라는 지역변수에 담는다.
 		String [] msgs = new String [5];

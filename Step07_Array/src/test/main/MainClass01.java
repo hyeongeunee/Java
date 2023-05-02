@@ -1,12 +1,11 @@
 package test.main;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 /*
  *  java 에서 배열도 객체이다 
  *  즉 배열은 참조데이터 type 이다.
  */
 public class MainClass01 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		//int num = null;
