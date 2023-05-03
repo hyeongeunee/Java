@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="test.main.MainClass"/>
-    <fullyQualifiedTypeName name="test.main.MainClass01"/>
-    <fullyQualifiedTypeName name="javax.smartcardio.CardException"/>
     <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
-    <fullyQualifiedTypeName name="test.mypac.Car"/>
     <fullyQualifiedTypeName name="test.mypac.MyUitil"/>
     <fullyQualifiedTypeName name="java.lang.invoke.LambdaConversionException"/>
     <fullyQualifiedTypeName name="java.awt.image.SinglePixelPackedSampleModel"/>
@@ -13,7 +9,6 @@
     <fullyQualifiedTypeName name="test.main.MainClass07"/>
     <fullyQualifiedTypeName name="test.mypac.Square"/>
     <fullyQualifiedTypeName name="java.awt.print.Printable"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="test.mypac.Test"/>
     <fullyQualifiedTypeName name="test.mypac.Airplane"/>
@@ -29,13 +24,11 @@
     <fullyQualifiedTypeName name="javax.xml.crypto.AlgorithmMethod"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="test.mypac.Bike"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="test.mypac.Phone"/>
     <fullyQualifiedTypeName name="test.mypac.HandPhone"/>
     <fullyQualifiedTypeName name="test.mypac.AndroidPhone"/>
@@ -46,7 +39,25 @@
     <fullyQualifiedTypeName name="test.auto.Bus"/>
     <fullyQualifiedTypeName name="test.util.BaseUtil"/>
     <fullyQualifiedTypeName name="test.util.MyUtil"/>
-    <fullyQualifiedTypeName name="java.security.PublicKey"/>
-    <fullyQualifiedTypeName name="test.mypac.Weapon"/>
+    <fullyQualifiedTypeName name="test.mypac.WWeapon"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo.Tiger"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo.Monkey"/>
+    <fullyQualifiedTypeName name="test.main.MainClass04.Gura"/>
+    <fullyQualifiedTypeName name="Cat"/>
+    <fullyQualifiedTypeName name="test.main.MainClass05.SeaWeapon"/>
+    <fullyQualifiedTypeName name="SpaceWeapon"/>
     <fullyQualifiedTypeName name="test.mypac.MyWeapon"/>
+    <fullyQualifiedTypeName name="test.mypac.Weapon"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="test.mypac.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="test.mypac.MyRemocon"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="test.mypac.RRemocon"/>
+    <fullyQualifiedTypeName name="test.mypac.Remocon"/>
+    <fullyQualifiedTypeName name="test.mypac.Drill"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="test.mypac.Calc"/>
 </qualifiedTypeNameHistroy>

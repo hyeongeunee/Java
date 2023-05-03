@@ -1,6 +1,7 @@
 package test.main;
 
 import test.mypac.MyWeapon;
+import test.mypac.Weapon;
 
 /*
  *  [ 추상클래스 (Abstract Class) ]
@@ -18,9 +19,13 @@ import test.mypac.MyWeapon;
  */
 
 public class MainClass01 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
-		MyWeapon w1 = new MyWeapon();
-		w1.prepare();
-		w1.attack();
+		//Weapon type 의 참조값을 담을 빈 지역변수 w1 만들기
+		Weapon w1 = null;
+		//추상클래스는 단독으로 못해서 new Weapon() 은 불가능 .. 
+		Weapon w2 = new MyWeapon();
+		w2.prepare();
+		w2.attack();
 	}
 }

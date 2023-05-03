@@ -4,6 +4,7 @@ import test.mypac.AndroidPhone;
 import test.mypac.HandPhone;
 
 public class MainClass06 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//자식에게 사준 일반 핸드폰(인터넷이 안됨)
 		HandPhone p1 = new HandPhone(); 
