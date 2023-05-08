@@ -17,7 +17,7 @@ public class MainClass01 {
 		// "김구라" , "해골", "원숭이"  3개의 String type 을 저장해 보세요.
 		names.add("김구라");
 		names.add("해골");
-		names.add("원숭이");		
+		names.add("원숭이");
 		//0 번방의 아이템을 불러와서 item 이라는 변수에 담아보세요
 		String item = names.get(0);
 		//1 번방의 아이템을 삭제 하려면?
