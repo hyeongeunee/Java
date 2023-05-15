@@ -22,12 +22,12 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class MyFrame2 extends JFrame {
+public class MyFrame extends JFrame {
 	//현재 열려 있는 File 객체의 참조값을 저장할 필드
 	File openedFile;
 	JTextArea ta;
 
-	public MyFrame2(String title) {
+	public MyFrame(String title) {
 		super(title);
 
 		setBounds(100, 100, 500, 500);
