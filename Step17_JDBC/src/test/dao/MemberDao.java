@@ -5,7 +5,6 @@ import test.util.DBConnect;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-
 /*
  *  Data Access Object 만들어 보기
  *
@@ -14,10 +13,10 @@ import java.sql.PreparedStatement;
 public class MemberDao {
     Connection conn = null;
     PreparedStatement pstmt=null;
-    int rowCount = 0;
 
     //회원 한명의 정보를 저장하고 작업의 성공 여부를 리턴해주는 메소드
     public boolean insert(MemberDto dto) {
+        int rowCount = 0; //초기값을 0으로 부여
         //insert, update, delete 작업을 통해서 변화된(추가, 수정, 삭제) row의 개수를 담을 변수
         try {
             //Connection 객체의 참조값 얻어오기
@@ -47,6 +46,7 @@ public class MemberDao {
     }
 
     public boolean update(MemberDto dto) {
+        int rowCount = 0;
         try {
             //Connection 객체의 참조값 얻어오기
             conn = new DBConnect().getConn();
@@ -76,6 +76,7 @@ public class MemberDao {
     }
 
     public boolean delete(MemberDto dto) {
+        int rowCount = 0;
         try {
             //Connection 객체의 참조값 얻어오기
             conn = new DBConnect().getConn();
